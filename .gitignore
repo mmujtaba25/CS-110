@@ -39,3 +39,10 @@
 
 # debug information files
 *.dwo
+
+# built files
+output/
+.vscode
+
+# macos
+.DS_Store
