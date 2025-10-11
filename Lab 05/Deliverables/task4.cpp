@@ -23,7 +23,7 @@ int main()
         if (tmp_input <= 0 || tmp_input >= 100)
         {
             std::cout << "* Invalid number skipped \n";
-            std::cout << "* Enter a number between 0 and 100. \n\n";
+            std::cout << "* Enter a number between 1 and 100. \n\n";
             continue; // take another numb from
         }
 
