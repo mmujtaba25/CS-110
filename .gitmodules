@@ -1,3 +1,6 @@
 [submodule "Assignment 01/aerolink-demo"]
 	path = Assignment 01/aerolink-demo
 	url = git@github-nust:aerolink-corp/aerolink-demo.git
+[submodule "Lab 08/horizon"]
+	path = Lab 08/horizon
+	url = https://github.com/HorizonNUST/horizon.git
