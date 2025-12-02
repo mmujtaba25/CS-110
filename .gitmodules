@@ -4,3 +4,6 @@
 [submodule "Lab 08/horizon"]
 	path = Lab 08/horizon
 	url = https://github.com/HorizonNUST/horizon.git
+[submodule "Assignment 02/sudoku"]
+	path = Assignment 02/sudoku
+	url = https://github.com/HorizonNUST/sudoku.git
