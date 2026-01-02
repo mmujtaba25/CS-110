@@ -7,3 +7,6 @@
 [submodule "Assignment 02/sudoku"]
 	path = Assignment 02/sudoku
 	url = https://github.com/HorizonNUST/sudoku.git
+[submodule "End Semester Project/Repo"]
+	path = End Semester Project/Repo
+	url = git@github-nust:mmalikbese25seecs-afk/Traffic-Processing-Simulator.git
