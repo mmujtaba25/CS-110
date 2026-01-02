@@ -46,6 +46,5 @@ output/
 
 # macos
 .DS_Store
-_practice
 
 build/
